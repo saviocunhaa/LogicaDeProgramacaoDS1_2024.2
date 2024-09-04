@@ -1,0 +1,1 @@
+# Crie um programa que receba três notas de um aluno e calcule a média aritmética.
