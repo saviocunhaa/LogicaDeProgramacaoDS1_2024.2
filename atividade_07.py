@@ -8,4 +8,11 @@ valorimposto = valorProduto * 12/100
 
 #somar o valor do importo + valor do produto
 valorFinal = valorProduto + valorimposto
-print(valorFinal)
+
+print(f""" 
+      O Valor do produto é: {valorProduto}
+      O valor de imposto é: {valorimposto}
+      O valor final com imposto é: {valorFinal}
+""")
+
+ 
