@@ -1,0 +1,1 @@
+# Crie um programa que receba um número inteiro e calcule o fatorial desse número usando uma estrutura de repetição.
