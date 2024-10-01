@@ -11,3 +11,19 @@
 # Maior nota: 9
 # Menor nota: 5
 # Média das notas: 7.0
+
+listaNotas = []
+
+for i in range(5):
+    nota = float(input(f"Digite a nota do aluno {i}"))
+    listaNotas.append(nota)
+
+maior = max(listaNotas)
+menor = min(listaNotas)
+media = sum(listaNotas) / len(listaNotas)
+
+print(f"""
+Maior - {maior}
+Menor - {menor}
+Media - {media}
+""")

@@ -6,3 +6,4 @@
 
 # Exemplo de saída:
 # Produtos com estoque zerado: Feijão, Açúcar
+
